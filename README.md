@@ -1,6 +1,6 @@
 # DatatalkClub-MLL-Projects
 
-Welcome to the repository for the Machine Learning Bootcamp 2024 hosted by Datatalk Club. This repository contains all the assignments and projects that are part of the bootcamp curriculum.
+Welcome to the repository for the Machine Learning Bootcamp 2024 hosted by Datatalk Club. This repository contains all the assignments and projects that are part of the Zoomcamp curriculum.
 
 ## Table of Contents
 
