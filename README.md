@@ -5,7 +5,7 @@ Welcome to the repository for the Machine Learning Bootcamp 2024 hosted by Datat
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Homeworks](#home works)
+- [Home Works](#home works)
 - [Projects](#projects)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -16,7 +16,7 @@ Welcome to the repository for the Machine Learning Bootcamp 2024 hosted by Datat
 
 This repository is designed to help participants of the Machine Learning Bootcamp 2024 to track their progress and collaborate on assignments and projects. Each folder within the repository corresponds to a different module or project in the bootcamp.
 
-## Assignments
+## Home Works
 
 Assignments are designed to reinforce the concepts covered in the bootcamp lectures. Each assignment folder contains the following:
 - **README.md**: Instructions for the assignment.
