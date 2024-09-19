@@ -5,7 +5,7 @@ Welcome to the repository for the Machine Learning Bootcamp 2024 hosted by Datat
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Assignments](#home works)
+- [Homeworks](#home works)
 - [Projects](#projects)
 - [Installation](#installation)
 - [Usage](#usage)
